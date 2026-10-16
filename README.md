@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://eluport.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-eluport-2E96A3?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-eluport-2E96A3?style=for-the-badge&logo=logoColor=white"/>
   </a>
 </p>
 
@@ -76,9 +76,9 @@
 
 ## Award 🏆
 
-YYYY年MM月度、プログラミングスクール RUNTEQ にて、受講生および運営からの推薦により表彰されました。
+2026年5月度、プログラミングスクールにて、受講生および運営からの推薦により表彰されました。
 
-<img width="600" alt="Award" src="AWARD_IMAGE_URL" />
+<img width="600" alt="Award" src="./assets/award_202605.jpg" />
 
 ---
 
